@@ -2,7 +2,7 @@
 
 # :books: Table of Contents <!-- omit in toc -->
 
-- [1. Overall](#1-overall)
+- [1. Overview](#1-overview)
 - [2. Sale & Product](#2-sale-and-product)
 - [3. Orders](#3-orders)
 - [4. Transaction](#4-transaction)
