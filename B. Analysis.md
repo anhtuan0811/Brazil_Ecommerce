@@ -25,6 +25,10 @@
 - Regarding to Product : Overall, We can give a comment is that family stuffs are favorable items of Bazilians. With the development of economics, Brazilians also want to improve their life experience with useful home furniture and beauty items.
 --- 
 # 2. Sale and Product
+![image](https://github.com/anhtuan0811/Brazil_Ecommerce/assets/143471832/83b4c5f5-2653-45e6-b7e1-c978d09b8981)
+- Although family furniture category items as bed_bad_table accounts for the largest number of purchased products, stuffs relating beauty products and luxury items (watches) has the best contribute to total revenue of E-commerce company. With main category, electronics and furniture are always on top picking of citizens.
+
+- With the largest of purchasing area as Sao Paulo, Rio de Janeiro and Minas Gerais , we can also understand that they are also on top of revenue contribute to company.
 
 
 # 3. Orders
